@@ -6,29 +6,34 @@ My work filters underlying derivative open interest metrics to map out condition
 
 ---
 
-## 🔒 Intellectual Property & Access Verification Protocol
+## 🔒 "Collaborative Safety Framework"
 
 To maintain strict compliance with local financial services frameworks regarding public data exposure, all daily session logs, historical mapping journals, and active structural case studies are maintained within a **Private Repository**. 
 
 ### 🚫 Strict Exclusion Rules:
 *   **NO Retail Signal Chasers:** This terminal does not provide live signals, get-rich-quick day trading strategies, or retail chart patterns. 
-*   **NO Commercial Redistribution:** Unauthorized downloading, white-labeling, or commercial resale of my structural framework parameters will result in immediate collaborator termination and appropriate intellectual property enforcement.
+*   **NO Commercial Resale: This repository is built strictly out of personal passion for private learning and academic backtesting. I kindly ask that my independent research notes and framework layouts remain within this private study space and are not copied, white-labeled, or resold for commercial profit.
 
-### 🟩 Verified Access Criteria:
-Full private collaborator access to my running **Historical 100-Day Session Mapping Ledger** (`microstructure-daily-journal`) is granted exclusively to:
-1.  **Institutional Trading Desks & Specialists** (e.g., FIX Protocol Developers, Market Makers)
-2.  **Quantitative Researchers & Systems Architects** (e.g., Big Tech Infrastructure, Quant Developers)
-3.  **Academic & Technical Research Peers** (e.g., Verified CS / Computational Finance Students)
+### 🟩 Peer-to-Peer Access Criteria:
+To maintain a high-integrity, research-focused environment, collaborator access to the running **Historical 100-Day Session Mapping Ledger** is shared peer-to-peer with:
+1.  **Institutional Specialists** looking to cross-verify order book metrics.
+2.  **Quantitative and Systems Engineers** interested in AI-leveraged logic.
+3.  **Academic Peers and Students** (Computer Science or Finance tracks) engaged in microstructure research.
+
 
 ---
 
-## 📥 Access Request Instructions
+## 📥 Connect & Request Access
 
-If you are an industry professional or researcher wishing to review the operational tracking archives, you must complete professional identity verification before access is provisioned:
+Because this terminal is a passion-driven research space, I love connecting with fellow systems thinkers, traders, and engineers. To keep our community highly focused, maintain legal compliance, and preserve the integrity of this study space, full viewing access is shared privately peer-to-peer."
 
-1. Connect directly with me via my **LinkedIn Network**. 
-2. Send a direct message containing your verified professional background, research focus, and your GitHub handle.
-3. Anonymous, blank, or unverifiable GitHub account requests will be automatically declined and archived to preserve repository security.
+### 🚀 How to join the Private Archive:
+1. **Let's Connect on LinkedIn:** Drop by my LinkedIn page so we can introduce ourselves. 
+2. **Send a Quick Message:** Let me know a bit about your professional background, what specific market mechanics or research areas you are passionate about, and include your GitHub handle.
+3. **Repository Sync:** Once we chat, I will manually add your username as a collaborator so you can securely explore the running tracking ledger.
+
+*Note: To protect repository integrity and preserve data privacy, I cannot accept anonymous or blank GitHub profiles. Thank you for understanding, and I look forward to collaborating!*
+
 
 ---
 *Independent Research & Quantitative Logic. Strictly Non-Transactional. Retrospective Modeling Focus Only.*
