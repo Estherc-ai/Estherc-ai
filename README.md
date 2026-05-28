@@ -2,6 +2,12 @@
 
 Welcome to my quantitative development node. I am an independent researcher specializing in systemic order book dynamics, market maker structural inventory modeling, and algorithmic liquidity engineering frameworks. 
 
+## 🔬 Research Focus Areas
+* **Module 1:** Derivative Open Interest Modeling & Term Structure Drift
+* **Module 2:** Market Maker Inventory Mechanics & Short-Gamma Vacuum Loops
+* **Module 3:** Order Dynamics & Statistical Variance Limits (1-SD Expected Move Formula)
+
+
 My work filters underlying derivative open interest metrics to map out conditional, mathematical "If/Then" structural paths across major global indices ($NDX / MNQ).
 
 ---
