@@ -23,4 +23,9 @@ Because this terminal is a passion-driven research space, I love connecting with
 
 ---
 *Independent Research & Quantitative Logic. Strictly Non-Transactional. Retrospective Modeling Focus Only.*
+## ⚠️ Regulatory Notice
+* Independent Quantitative Research & Systems Logic Only
+* Strictly Non-Transactional Portfolio
+* Retrospective Data Modeling Focus Only
+* No Financial Product Advice or Recommendations Provided
 
